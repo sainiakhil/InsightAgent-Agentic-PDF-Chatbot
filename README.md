@@ -22,7 +22,7 @@ A powerful AI-powered chatbot that can analyze PDF documents and answer question
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/sainiakhil/InsightAgent-Agentic-PDF-Chatbot/tree/main>
    ```
 
 2. **Install dependencies**
